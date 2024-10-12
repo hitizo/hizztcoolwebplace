@@ -6,10 +6,6 @@ body {
     display: flex;
 }
 
-.header1 {
-    text-align: center;    
-}
-
 .box {
     width: 500px;
     text-align: center;
