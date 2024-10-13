@@ -1,7 +1,8 @@
 body {
     font-family: Courier;
     font-size: 15px;
-    background-image: ("https://file.garden/ZLptrSeVhBA68gx4/myWebsites/hizztcoolwebplace/images/007.GIF");
+    background-color: #272b40;
+    background-image: url("https://file.garden/ZLptrSeVhBA68gx4/myWebsites/hizztcoolwebplace/images/007.GIF");
 }
 
 .box {
