@@ -1,6 +1,11 @@
 body {
   background-color: black;
   color: white;
+  font-family: courier;
+}
+
+h1 {
+  color: white;
 }
 
 a:link {
@@ -14,3 +19,4 @@ a:visited {
 a:hover {
   color: white;
 }
+
